@@ -1,0 +1,386 @@
+Nr,Code,Label,Type,Format,Valid,Invalid,Question
+5,Verbal,Autopsy Input Indicator data:January 2000 Œ September 2021 - Variables List -  7  - Variables List Dataset contains 385 variable(s) File AHRI.VerbalAutopsy.InteVA05 Raw Data.2021 # Name Label Type Format Valid Invalid Question 1 iv5_id -,continuous,numeric-12.0,22837,0,-
+2,DoB,Date of Birth,discrete,character-11,2283,7,-
+3,DoD,Date of Death,discrete,character-11,2283,7,-
+4,Intervie,.. Interview Date,discrete,character-11,2282,7,-
+5,DeathSet,.. Place of death,discrete,numeric-12.0,21385,1452,-
+6,sv_refer,.. Was the child referred to another place for care?,discrete,numeric-12.0,72,22765,-
+7,sv_reach,.. Did they reach the place they were referred to?,discrete,numeric-12.0,22,22815,-
+8,sb_minut,.. How many minutes after birth did the baby first cry?,continuous,numeric-12.0,23,22814,-
+9,ap_menta,.. For how many months did (s)he have mental confusion?,continuous,numeric-12.0,558,22279,-
+10,md_preg_,.. Was she pregnant at the time of death?,discrete,numeric-12.0,1514,21323,-
+11,md_die_d,".. Did she die within 6 weeks of delivery, abortion or miscarriage?",discrete,numeric-12.0,1505,21332,-
+12,md_die_d,.. Did this woman die more than 42 days after being pregnant or delivering a baby?,discrete,numeric-12.0,1494,21343,-
+13,hs_care_,.. Was care sought outside the home while (s)he had this illness?,discrete,numeric-12.0,2991,19846,-
+14,hs_care_,.. Where or from whom did you seek care?,continuous,numeric-12.0,2203,20634,-
+15,vb_age_d,.. Please indicate the Age at death.,continuous,numeric-10.0,3401,19436,-
+16,ih_age_f,.. How old was the baby when the fatal illness started? (In Days),continuous,numeric-10.0,26,22811,-
+17,bd_breat,.. During the illness that led to death did his/her breathing sound like any of the,discrete,numeric-12.0,3004,19833,-
+18,on_narra,.. Are there any of the following words of interest mentioned in the above narrative,discrete,numeric-12.0,3404,19433,-
+19,ap_stops,.. Did the baby stop suckling?,discrete,numeric-12.0,3,22834,-
+20,ap_stops,.. How many days after birth did the baby stop suckling?,discrete,numeric-12.0,1,22836,-
+21,md_birth,.. Was the baby born more than one month early?,discrete,numeric-12.0,164,22673,-
+5,Verbal,Autopsy Input Indicator data:January 2000 Œ September 2021 - Variables List -  8  - File AHRI.VerbalAutopsy.InteVA05 Raw Data.2021 # Name Label Type Format Valid Invalid Question 22 nd_baby_ .. What was the weight (in grammes) of the deceased at birth?,continuous,numeric-12.0,115,22722,-
+23,hs_biolo,.. Has the deceased's (biological) mother ever been tested for HIV?,discrete,numeric-12.0,116,22721,-
+24,hs_biolo,.. Has the deceased's (biological) mother ever been told she had HIV/AIDS by a healt,discrete,numeric-12.0,116,22721,-
+25,mh_ever_,.. Was the HIV test ever positive?,discrete,numeric-12.0,2987,19850,-
+26,md_die_d,.. Did she die within 6 weeks of childbirth?,discrete,numeric-12.0,126,22711,-
+27,hs_child,.. Do you have the child's vaccination card?,discrete,numeric-12.0,97,22740,-
+28,hs_child,.. Can I see the vaccination card (note the vaccines the child received)?,discrete,numeric-12.0,75,22762,-
+29,hs_vacc_,.. Note vaccines here,discrete,character-13,2,5,-
+30,hs_immun,.. Had (s)he received immunization?,discrete,numeric-12.0,109,22728,-
+31,sb_ever_,.. Did the baby ever move?,discrete,numeric-12.0,33,22804,-
+32,hs_art,Did (s)he receive (or need) antiretroviral therapy (ART)?,discrete,numeric-12.0,2185,20652,-
+33,i004a,Did s(he) die during the wet season?,discrete,numeric-12.0,22836,1,-
+34,i004b,Did s(he) die during the dry season?,discrete,numeric-12.0,22836,1,-
+35,i019a,Was he male?,discrete,numeric-12.0,22837,0,-
+36,i019b,Was she female?,discrete,numeric-12.0,22837,0,-
+37,i022a,Was s(he) aged 65 years or more at death?,discrete,numeric-12.0,22836,1,-
+38,i022b,Was s(he) aged 50 to 64 years at death?,discrete,numeric-12.0,22836,1,-
+39,i022c,Was s(he) aged 15 to 49 years at death?,discrete,numeric-12.0,22836,1,-
+40,i022d,Was s(he) aged 5-14 years at death?,discrete,numeric-12.0,22836,1,-
+41,i022e,Was s(he) aged 1 to 4 years at death?,discrete,numeric-12.0,22836,1,-
+42,i022f,Was s(he) aged 1 to 11 months at death?,discrete,numeric-12.0,19527,3310,-
+43,i022g,Was s(he) aged < 1 month (28 days) at death?,discrete,numeric-12.0,19527,3310,-
+44,i022h,Was s(he) a live baby who died within 24 hours of birth?,discrete,numeric-12.0,19527,3310,-
+45,i022i,Was s(he) a baby who died between 24 and 48 hours of birth?,discrete,numeric-12.0,19527,3310,-
+5,Verbal,"Autopsy Input Indicator data:January 2000 Œ September 2021 - Variables List -  9  - File AHRI.VerbalAutopsy.InteVA05 Raw Data.2021 # Name Label Type Format Valid Invalid Question 46 i022j Was s(he) a baby who died more than 48 hours from birth, but within the first wee",discrete,numeric-12.0,19527,3310,-
+47,i022k,"Was s(he) a baby who died after the first week, but within the first month?",discrete,numeric-12.0,19527,3310,-
+48,i022l,Was she a woman aged 12-19 years at death?,discrete,numeric-12.0,21131,1706,-
+49,i022m,Was she a woman aged 20-34 years at death?,discrete,numeric-12.0,21131,1706,-
+50,i022n,Was she a woman aged 35 to 49 years at death?,discrete,numeric-12.0,21131,1706,-
+51,i059o,Was she married at the time of death?,discrete,numeric-12.0,6739,16098,-
+52,i077o,Did (s)he suffer from any injury or accident that led to her/his death?,discrete,numeric-12.0,21674,1163,-
+53,i079o,Was (s)he injured in a road traffic accident?,discrete,numeric-12.0,15932,6905,-
+54,i082o,Was (s)he injured in a non- road transport accident?,discrete,numeric-12.0,321,22516,-
+55,i083o,Was (s)he injured in a fall?,discrete,numeric-12.0,15927,6910,-
+56,i084o,Was (s)he poisoned in any way?,discrete,numeric-12.0,15692,7145,-
+57,i085o,Did (s)he die of drowning?,discrete,numeric-12.0,15931,6906,-
+58,i086o,Was (s)he injured by the bite or sting of a venomous animal?,discrete,numeric-12.0,15697,7140,-
+59,i087o,Was (s)he injured by an animal or insect (non- venomous),discrete,numeric-12.0,448,22389,-
+60,i089o,Was (s)he injured by burns or fire?,discrete,numeric-12.0,15696,7141,-
+61,i090o,"Was (s)he subject to violence (suicide, homicide, abuse)?",discrete,numeric-12.0,15925,6912,-
+62,i091o,Was (s)he injured by a fire arm?,discrete,numeric-12.0,445,22392,-
+63,i092o,"Was (s)he stabbed, cut or pierced?",discrete,numeric-12.0,446,22391,-
+64,i093o,Was (s)he strangled?,discrete,numeric-12.0,434,22403,-
+65,i094o,Was (s)he injured by a blunt force?,discrete,numeric-12.0,435,22402,-
+66,i095o,Was (s)he injured by a force of nature?,discrete,numeric-12.0,447,22390,-
+67,i096o,Was (s)he electrocuted?,discrete,numeric-12.0,448,22389,-
+68,i098o,Was the injury accidental?,discrete,numeric-12.0,402,22435,-
+69,i099o,Was the injury or accident self-inflicted?,discrete,numeric-12.0,18955,3882,-
+5,Verbal,Autopsy Input Indicator data:January 2000 Œ September 2021 - Variables List -  10  - File AHRI.VerbalAutopsy.InteVA05 Raw Data.2021 # Name Label Type Format Valid Invalid Question 70 i100o Was the injury or accident intentionally inflicted by someone else?,discrete,numeric-12.0,15674,7163,-
+71,i104o,Did the baby ever cry?,discrete,numeric-12.0,194,22643,-
+72,i105o,"Did the baby cry immediately after birth, even if only a little bit?",discrete,numeric-12.0,23,22814,-
+73,i106a,Was it more than 5 minutes after birth before the baby first cried?,discrete,numeric-12.0,4,22833,-
+74,i107o,Did the baby stop being able to cry?,discrete,numeric-12.0,23,22814,-
+75,i108a,Did the baby stop crying more than a day before (s)he died?,discrete,numeric-12.0,0,22837,-
+76,i109o,Did the baby ever move?,discrete,numeric-12.0,33,22804,-
+77,i110o,Did the baby ever breathe?,discrete,numeric-12.0,33,22804,-
+78,i111o,"Did the baby breathe immediately after birth, even a little?",discrete,numeric-12.0,182,22655,-
+79,i112o,Did the baby have a breathing problem?,discrete,numeric-12.0,26,22811,-
+80,i113o,Was the baby given assistance to breathe at birth?,discrete,numeric-12.0,180,22657,-
+81,i114o,"If the baby didn't show any sign of life, was it born dead?",discrete,numeric-12.0,168,22669,-
+82,i115o,Were there any bruises or signs of injury on child's body after the birth?,discrete,numeric-12.0,32,22805,-
+83,i116o,"Was the baby's body soft, pulpy and discoloured with the skin peeling away?",discrete,numeric-12.0,7,22830,-
+84,i120a,Did the final illness last less than 3 weeks?,discrete,numeric-12.0,21039,1798,-
+85,i120b,Did the final illness last at least 3 weeks?,discrete,numeric-12.0,21030,1807,-
+86,i123o,Did (s)he die suddenly?,discrete,numeric-12.0,20829,2008,-
+87,i125o,Was there any diagnosis by a health professional of tuberculosis?,discrete,numeric-12.0,19215,3622,-
+88,i127o,Was there any diagnosis by a health professional of HIV/ AIDS?,discrete,numeric-12.0,21126,1711,-
+89,i128o,Did (s)he have a recent positive test by a health professional for malaria?,discrete,numeric-12.0,20796,2041,-
+90,i129o,Did (s)he have a recent negative test by a health professional for malaria?,discrete,numeric-12.0,2906,19931,-
+5,Verbal,Autopsy Input Indicator data:January 2000 Œ September 2021 - Variables List -  11  - File AHRI.VerbalAutopsy.InteVA05 Raw Data.2021 # Name Label Type Format Valid Invalid Question 91 i130o Was there any diagnosis by a health professional of dengue fever?,discrete,numeric-12.0,2922,19915,-
+92,i131o,Was there any diagnosis by a health professional of measles?,discrete,numeric-12.0,4281,18556,-
+93,i132o,Was there any diagnosis by a health professional of high blood pressure?,discrete,numeric-12.0,21291,1546,-
+94,i133o,Was there any diagnosis by a health professional of heart disease?,discrete,numeric-12.0,20786,2051,-
+95,i134o,Was there any diagnosis by a health professional of diabetes?,discrete,numeric-12.0,18741,4096,-
+96,i135o,Was there any diagnosis by a health professional of asthma?,discrete,numeric-12.0,18585,4252,-
+97,i136o,Was there any diagnosis by a health professional of epilepsy?,discrete,numeric-12.0,20888,1949,-
+98,i137o,Was there any diagnosis by a health professional of cancer?,discrete,numeric-12.0,20858,1979,-
+99,i138o,Was there any diagnosis by a health professional of Chronic Obstructive Pulmonary,discrete,numeric-12.0,2830,20007,-
+100,i139o,Was there any diagnosis by a physician or health worker of dementia?,discrete,numeric-12.0,2831,20006,-
+101,i140o,Was there any diagnosis by a health professional of depression?,discrete,numeric-12.0,2807,20030,-
+102,i141o,Was there any diagnosis by a health professional of stroke?,discrete,numeric-12.0,21377,1460,-
+103,i142o,Was there any diagnosis by a health professional of sickle cell disease?,discrete,numeric-12.0,2922,19915,-
+104,i143o,Was there any diagnosis by a health professional of kidney disease?,discrete,numeric-12.0,20790,2047,-
+105,i144o,Was there any diagnosis by a health professional of liver disease?,discrete,numeric-12.0,20798,2039,-
+106,i147o,"During the illness that led to death, did (s)he have a fever?",discrete,numeric-12.0,21435,1402,-
+107,i148a,Did the fever last less than a week before death?,discrete,numeric-12.0,18681,4156,-
+108,i148b,"Did the fever last at least one week, but less than 2 weeks before death?",discrete,numeric-12.0,134,22703,-
+5,Verbal,Autopsy Input Indicator data:January 2000 Œ September 2021 - Variables List -  12  - File AHRI.VerbalAutopsy.InteVA05 Raw Data.2021 # Name Label Type Format Valid Invalid Question 109 i148c Did the fever last at least 2 weeks before death?,discrete,numeric-12.0,18681,4156,-
+110,i149o,Did the fever continue until death?,discrete,numeric-12.0,722,22115,-
+111,i150a,Was the fever severe?,discrete,numeric-12.0,663,22174,-
+112,i151a,Was the fever continuous?,discrete,numeric-12.0,703,22134,-
+113,i152o,Did (s)he have night sweats?,discrete,numeric-12.0,17431,5406,-
+114,i153o,"During the illness that led to death, did (s)he have a cough?",discrete,numeric-12.0,21470,1367,-
+115,i154a,Did the cough last less than 3 weeks before death?,discrete,numeric-12.0,18628,4209,-
+116,i154b,Did the cough last at least 3 weeks before death?,discrete,numeric-12.0,18628,4209,-
+117,i155o,"Was the cough productive, with sputum?",discrete,numeric-12.0,19136,3701,-
+118,i156o,Was the cough very severe?,discrete,numeric-12.0,623,22214,-
+119,i157o,Did (s)he cough up blood?,discrete,numeric-12.0,14000,8837,-
+120,i158o,Did (s)he make a whooping sound when coughing?,discrete,numeric-12.0,10,22827,-
+121,i159o,"During the illness that led to death, did (s)he have any difficulty breathing?",discrete,numeric-12.0,21461,1376,-
+122,i161a,Did the difficult breathing last for at least 3 days before death?,discrete,numeric-12.0,500,22337,-
+123,i165a,Was the difficult breathing continuous during this period?,discrete,numeric-12.0,1180,21657,-
+124,i166o,Did (s)he have fast breathing?,discrete,numeric-12.0,17744,5093,-
+125,i167a,Did the fast breathing last for less than two weeks before death?,discrete,numeric-12.0,18591,4246,-
+126,i167b,Did the fast breathing last for at least 2 weeks before death?,discrete,numeric-12.0,18591,4246,-
+127,i168o,Did (s)he have breathlessness?,discrete,numeric-12.0,21461,1376,-
+128,i169a,Did the breathlessness last for less than 2 weeks before death?,discrete,numeric-12.0,18677,4160,-
+129,i169b,Did the breathlessness last for at least 2 weeks before death?,discrete,numeric-12.0,18677,4160,-
+130,i170o,Was (s)he unable to carry out daily routines due to breathlessness?,discrete,numeric-12.0,12981,9856,-
+131,i171o,Was (s)he breathless while lying flat?,discrete,numeric-12.0,2358,20479,-
+5,Verbal,Autopsy Input Indicator data:January 2000 Œ September 2021 - Variables List -  13  - File AHRI.VerbalAutopsy.InteVA05 Raw Data.2021 # Name Label Type Format Valid Invalid Question 132 i172o Did you see the lower chest wall/ribs being pulled in as the child breathed?,discrete,numeric-12.0,14816,8021,-
+133,i173a,Did his/her breathing sound like wheezing or grunting?,discrete,numeric-12.0,12677,10160,-
+134,i174o,"During the illness that led to death, did (s)he have chest pain?",discrete,numeric-12.0,16518,6319,-
+135,i175o,Was the chest pain severe?,discrete,numeric-12.0,475,22362,-
+136,i176a,Did (s)he experience chest pain at least 3 days before death?,discrete,numeric-12.0,174,22663,-
+137,i178a,Did the chest pain last for at least 30 minutes?,discrete,numeric-12.0,332,22505,-
+138,i181o,Did (s)he have diarrhoea?,discrete,numeric-12.0,18574,4263,-
+139,i182a,Did (s)he have diarrhoea for less than 2 weeks before death?,discrete,numeric-12.0,15740,7097,-
+140,i182b,Did (s)he have diarrhoea for at least 2 weeks but less than 4 weeks before death?,discrete,numeric-12.0,15482,7355,-
+141,i182c,Did (s)he have diarrhoea for at least 4 weeks before death?,discrete,numeric-12.0,15358,7479,-
+142,i183o,-,discrete,numeric-12.0,0,22837,-
+143,i184a,Did the frequent loose or liquid stools start at least 3 days before death?,discrete,numeric-12.0,13,22824,-
+144,i185o,Did the frequent loose or liquid stools continue up until death?,discrete,numeric-12.0,21,22816,-
+145,i186o,At any time during the final illness was there blood in the stools?,discrete,numeric-12.0,17790,5047,-
+146,i187o,Was there blood in the stool up until death?,discrete,numeric-12.0,31,22806,-
+147,i188o,"During the illness that led to death, did (s)he vomit?",discrete,numeric-12.0,16300,6537,-
+148,i189o,Did (s)he vomit in the week preceding the death?,discrete,numeric-12.0,2863,19974,-
+149,i190o,Did (s)he vomit for at least 3 days before death?,discrete,numeric-12.0,77,22760,-
+150,i191o,Was there blood in the vomit?,discrete,numeric-12.0,13404,9433,-
+151,i192o,Was the vomit black?,discrete,numeric-12.0,397,22440,-
+152,i193o,"During the illness that led to death, did (s)he have any abdominal (belly) proble",discrete,numeric-12.0,16347,6490,-
+153,i194o,Did (s)he have abdominal pain?,discrete,numeric-12.0,9180,13657,-
+5,Verbal,Autopsy Input Indicator data:January 2000 Œ September 2021 - Variables List -  14  - File AHRI.VerbalAutopsy.InteVA05 Raw Data.2021 # Name Label Type Format Valid Invalid Question 154 i195o Was the abdominal pain severe?,discrete,numeric-12.0,230,22607,-
+155,i197a,Did (s)he have severe abdominal pain for less than 2 weeks before death?,discrete,numeric-12.0,6425,16412,-
+156,i197b,Did (s)he have severe abdominal pain for at least 2 weeks before death?,discrete,numeric-12.0,6425,16412,-
+157,i199a,Was the pain in the upper abdomen?,discrete,numeric-12.0,162,22675,-
+158,i199b,Was the pain in the lower abdomen?,discrete,numeric-12.0,162,22675,-
+159,i200o,Did (s)he have a more than usually protruding abdomen?,discrete,numeric-12.0,14316,8521,-
+160,i201a,Did (s)he have a more than usually protruding abdomen for less than 2 weeks befor,discrete,numeric-12.0,18591,4246,-
+161,i201b,Did (s)he have a more than usually protruding abdomen for at least 2 weeks before,discrete,numeric-12.0,18591,4246,-
+162,i203a,Did (s)he develop the protruding abdomen rapidly?,discrete,numeric-12.0,0,22837,-
+163,i204o,Did (s)he have any mass in the abdomen?,discrete,numeric-12.0,13416,9421,-
+164,i205a,Did (s)he have a mass in the abdomen for less than 2 weeks before death?,discrete,numeric-12.0,18516,4321,-
+165,i205b,Did (s)he have a mass in the abdomen for at least 2 weeks before death?,discrete,numeric-12.0,18516,4321,-
+166,i207o,"During the illness that led to death, did (s)he have a severe headache?",discrete,numeric-12.0,14371,8466,-
+167,i208o,"During the illness that led to death, did (s)he have a stiff neck?",discrete,numeric-12.0,14082,8755,-
+168,i209a,Did (s)he have a stiff neck for less than one week before death?,discrete,numeric-12.0,12975,9862,-
+169,i209b,Did (s)he have a stiff neck for at least one week before death?,discrete,numeric-12.0,12975,9862,-
+170,i210o,"During the illness that led to death, did (s)he have a painful neck?",discrete,numeric-12.0,2882,19955,-
+171,i211a,Did (s)he have a painful neck for at least one week before death?,discrete,numeric-12.0,16,22821,-
+172,i212o,"During the illness that led to death, did (s)he have mental confusion?",discrete,numeric-12.0,2812,20025,-
+5,Verbal,Autopsy Input Indicator data:January 2000 Œ September 2021 - Variables List -  15  - File AHRI.VerbalAutopsy.InteVA05 Raw Data.2021 # Name Label Type Format Valid Invalid Question 173 i213o Did (s)he have mental confusion for at least 3 months before death?,discrete,numeric-12.0,162,22675,-
+174,i214o,"During the illness that led to death, was (s)he unconscious?",discrete,numeric-12.0,2915,19922,-
+175,i215o,Was (s)he unconscious for at least 24 hours before death?,discrete,numeric-12.0,16008,6829,-
+176,i216a,Was (s)he unsconscious for at least 6 hours before death?,discrete,numeric-12.0,1,22836,-
+177,i217o,"Did the unconsciousness start suddenly, quickly (at least within a single day)?",discrete,numeric-12.0,252,22585,-
+178,i218o,Did the unconsciousness continue until death?,discrete,numeric-12.0,52,22785,-
+179,i219o,"During the illness that led to death, did (s)he have any convulsions?",discrete,numeric-12.0,17389,5448,-
+180,i220o,Did (s)he experience any generalized convulsions or fits?,discrete,numeric-12.0,7,22830,-
+181,i221a,Did the convulsions last for less than 10 minutes?,discrete,numeric-12.0,12,22825,-
+182,i221b,Did the convulsions last for at least 10 minutes?,discrete,numeric-12.0,12,22825,-
+183,i222o,Did (s)he become unconscious immediately after the convulsion?,discrete,numeric-12.0,18558,4279,-
+184,i223o,"During the illness that led to death, did (s)he have any urine problems?",discrete,numeric-12.0,17947,4890,-
+185,i224o,Did (s)he stop urinating?,discrete,numeric-12.0,15019,7818,-
+186,i225o,Did (s)he go to urinate more often than usual?,discrete,numeric-12.0,14916,7921,-
+187,i226o,Did (s)he pass blood in the urine?,discrete,numeric-12.0,14933,7904,-
+188,i227o,"During the illness that led to death, did (s)he have any sores or ulcers anywhere",discrete,numeric-12.0,17839,4998,-
+189,i228o,Did (s)he have sores?,discrete,numeric-12.0,1485,21352,-
+190,i229o,Did the sores have clear fluid and/or pus?,discrete,numeric-12.0,175,22662,-
+191,i230o,Did (s)he have an ulcer (pit) on the foot?,discrete,numeric-12.0,4216,18621,-
+192,i231o,Did any ulcer ooze pus?,discrete,numeric-12.0,92,22745,-
+193,i232a,Did the ulcer ooze pus for at least 2 weeks?,discrete,numeric-12.0,2,22835,-
+194,i233o,"During the illness that led to death, did (s)he have any skin rash?",discrete,numeric-12.0,17573,5264,-
+5,Verbal,Autopsy Input Indicator data:January 2000 Œ September 2021 - Variables List -  16  - File AHRI.VerbalAutopsy.InteVA05 Raw Data.2021 # Name Label Type Format Valid Invalid Question 195 i234a Did (s)he have the skin rash for less than one week?,discrete,numeric-12.0,6663,16174,-
+196,i234b,Did (s)he have the skin rash for at least one week?,discrete,numeric-12.0,6663,16174,-
+197,i235a,Did (s)he have a rash on the face?,discrete,numeric-12.0,32,22805,-
+198,i235b,Did (s)he have a rash on the trunk or abdomen?,discrete,numeric-12.0,32,22805,-
+199,i235c,Did (s)he have a rash on the extremities?,discrete,numeric-12.0,32,22805,-
+200,i235d,Did (s)he have a rash everywhere?,discrete,numeric-12.0,32,22805,-
+201,i236o,Did (s)he have measles rash?,discrete,numeric-12.0,14613,8224,-
+202,i237o,Did (s)he ever have shingles or herpes zoster?,discrete,numeric-12.0,15820,7017,-
+203,i238o,"During the illness that led to death, did her/his skin flake off in patches?",discrete,numeric-12.0,2908,19929,-
+204,i239o,"During the illness that led to death, did he/she have areas of the skin that turn",discrete,numeric-12.0,106,22731,-
+205,i240o,"During the illness that led to death, did he/she have areas of the skin with redn",discrete,numeric-12.0,106,22731,-
+206,i241o,"During the illness that led to death, did (s)he bleed from anywhere?",discrete,numeric-12.0,2936,19901,-
+207,i242o,"Did (s)he bleed from the nose, mouth or anus?",discrete,numeric-12.0,18300,4537,-
+208,i243o,"During the illness that led to death, did (s)he have noticeable weight loss?",discrete,numeric-12.0,19007,3830,-
+209,i244o,Was (s)he severely thin or wasted?,discrete,numeric-12.0,20098,2739,-
+210,i245o,"During the illness that led to death, did s/he have a whitish rash inside the mou",discrete,numeric-12.0,18492,4345,-
+211,i246o,"During the illness that led to death, did (s)he have stiffness of the whole body",discrete,numeric-12.0,17924,4913,-
+212,i247o,"During the illness that led to death, did (s)he have puffiness of the face?",discrete,numeric-12.0,16566,6271,-
+213,i248a,Did (s)he have puffiness of the face for at least one week before death?,discrete,numeric-12.0,38,22799,-
+214,i249o,"During the illness that led to death, did (s)he have swollen legs or feet?",discrete,numeric-12.0,2903,19934,-
+215,i250a,Did the swelling last for at least 3 days before death?,discrete,numeric-12.0,51,22786,-
+5,Verbal,Autopsy Input Indicator data:January 2000 Œ September 2021 - Variables List -  17  - File AHRI.VerbalAutopsy.InteVA05 Raw Data.2021 # Name Label Type Format Valid Invalid Question 216 i251o Did (s)he have both feet swollen?,discrete,numeric-12.0,16577,6260,-
+217,i252o,"During the illness that led to death, did (s)he have general puffiness all over h",discrete,numeric-12.0,2903,19934,-
+218,i253o,"During the illness that led to death, did (s)he have any lumps?",discrete,numeric-12.0,19238,3599,-
+219,i254o,Did (s)he have any lumps or lesions in the mouth?,discrete,numeric-12.0,51,22786,-
+220,i255o,Did (s)he have any lumps in the neck?,discrete,numeric-12.0,15284,7553,-
+221,i256o,Did (s)he have any lumps in the armpit?,discrete,numeric-12.0,15241,7596,-
+222,i257o,Did (s)he have any lumps in the groin?,discrete,numeric-12.0,15240,7597,-
+223,i258o,"During the illness that led to death, was (s)he in any way paralysed?",discrete,numeric-12.0,2901,19936,-
+224,i259o,Did (s)he have paralysis of only one side of the body?,discrete,numeric-12.0,14974,7863,-
+225,i260a,Was only the right side of the body paralysed?,discrete,numeric-12.0,220,22617,-
+226,i260b,Was only the left side of the body paralysed?,discrete,numeric-12.0,220,22617,-
+227,i260c,Was only the lower part of the body paralysed?,discrete,numeric-12.0,220,22617,-
+228,i260d,Was only the upper part of the body paralysed?,discrete,numeric-12.0,220,22617,-
+229,i260e,Was only one leg paralysed?,discrete,numeric-12.0,220,22617,-
+230,i260f,Was only one arm paralysed?,discrete,numeric-12.0,220,22617,-
+231,i260g,Was the entire body paralysed?,discrete,numeric-12.0,220,22617,-
+232,i261o,"During the illness that led to death, did (s)he have difficulty swallowing?",discrete,numeric-12.0,2900,19937,-
+233,i262a,Did (s)he have difficulty swallowing for at least one week before death?,discrete,numeric-12.0,30,22807,-
+234,i263a,Did (s)he have difficulty with swallowing solids?,discrete,numeric-12.0,0,22837,-
+235,i263b,Did (s)he have difficulty with swallowing liquids?,discrete,numeric-12.0,16921,5916,-
+236,i264o,Did (s)he have pain upon swallowing?,discrete,numeric-12.0,2867,19970,-
+237,i265o,"During the illness that led to death, did (s)he have yellow discolouration of the",discrete,numeric-12.0,13823,9014,-
+238,i266a,Did (s)he have the yellow discolouration for at least 3 weeks before death?,discrete,numeric-12.0,28,22809,-
+5,Verbal,"Autopsy Input Indicator data:January 2000 Œ September 2021 - Variables List -  18  - File AHRI.VerbalAutopsy.InteVA05 Raw Data.2021 # Name Label Type Format Valid Invalid Question 239 i267o During the illness that led to death, did her/his hair change to a reddish or yel",discrete,numeric-12.0,10335,12502,-
+240,i268o,"During the illness that led to death, did (s)he look pale (thinning/lack of blood",discrete,numeric-12.0,17753,5084,-
+241,i269o,"During the illness that led to death, did (s)he have sunken eyes?",discrete,numeric-12.0,14488,8349,-
+242,i270o,"During the illness that led to death, did (s)he drink a lot more water than usual",discrete,numeric-12.0,8133,14704,-
+243,i271o,Was the baby able to suckle or bottle-feed within the first 24 hours after birth?,discrete,numeric-12.0,158,22679,-
+244,i272o,Did the baby ever suckle in a normal way?,discrete,numeric-12.0,3,22834,-
+245,i273o,Did the baby stop suckling?,discrete,numeric-12.0,3,22834,-
+246,i274a,Did the baby stop suckling on the 2nd day of life or later?,discrete,numeric-12.0,161,22676,-
+247,i275o,Did the baby have convulsions starting within the first 24 hours of life?,discrete,numeric-12.0,152,22685,-
+248,i276o,Did the baby have convulsions starting more than 24 hours after birth?,discrete,numeric-12.0,151,22686,-
+249,i277o,"Did the baby's body become stiff, with the back arched backwards?",discrete,numeric-12.0,3,22834,-
+250,i278o,"During the illness that led to death, did the baby have a bulging or raised fonta",discrete,numeric-12.0,9474,13363,-
+251,i279o,"During the illness that led to death, did the baby have a sunken fontanelle?",discrete,numeric-12.0,406,22431,-
+252,i281o,"During the illness that led to death, did the baby become unresponsive or unconsc",discrete,numeric-12.0,3,22834,-
+253,i282o,"Did the baby become unresponsive or unconscious soon after birth, within less tha",discrete,numeric-12.0,1,22836,-
+254,i283o,Did the baby become unresponsive or unconscious more than 24 hours after birth?,discrete,numeric-12.0,1,22836,-
+255,i284o,"During the illness that led to death, did the baby become cold to touch?",discrete,numeric-12.0,157,22680,-
+256,i285a,Was the baby more than 3 days old when it started feeling cold to touch?,discrete,numeric-12.0,1,22836,-
+5,Verbal,"Autopsy Input Indicator data:January 2000 Œ September 2021 - Variables List -  19  - File AHRI.VerbalAutopsy.InteVA05 Raw Data.2021 # Name Label Type Format Valid Invalid Question 257 i286o During the illness that led to death, did the baby become lethargic, after a peri",discrete,numeric-12.0,2,22835,-
+258,i287o,Did the baby have redness or discharge from the umbilical cord stump?,discrete,numeric-12.0,164,22673,-
+259,i288o,"During the illness that led to death, did the baby have skin ulcer(s) or pits?",discrete,numeric-12.0,2,22835,-
+260,i289o,"During the illness that led to death, did the baby have yellow skin, palms (hand)",discrete,numeric-12.0,156,22681,-
+261,i290o,Did the baby or infant appear to be healthy and then just die suddenly?,discrete,numeric-12.0,2,22835,-
+262,i294o,"During the illness that led to death, did she have any swelling or lump in the br",discrete,numeric-12.0,8968,13869,-
+263,i295o,"During the illness that led to death, did she have any ulcers (pits) in the breas",discrete,numeric-12.0,1485,21352,-
+264,i296o,Did she ever have a period or menstruate?,discrete,numeric-12.0,1489,21348,-
+265,i297o,"During the illness that led to death, did she have excessive vaginal bleeding in",discrete,numeric-12.0,5175,17662,-
+266,i298o,Was the bleeding excessive?,discrete,numeric-12.0,33,22804,-
+267,i299o,Did her menstrual period stop naturally because of menopause?,discrete,numeric-12.0,1315,21522,-
+268,i300o,Did she have vaginal bleeding after cessation of menstruation?,discrete,numeric-12.0,4025,18812,-
+269,i301o,Was there excessive vaginal bleeding in the week prior to death?,discrete,numeric-12.0,1337,21500,-
+270,i302o,At the time of death was her period overdue?,discrete,numeric-12.0,1203,21634,-
+271,i303a,Had her period been overdue for at least 4 weeks?,discrete,numeric-12.0,0,22837,-
+272,i304o,Did she have a sharp pain in her abdomen shortly before death?,discrete,numeric-12.0,1443,21394,-
+273,i305o,Was she pregnant (incl. in labour) at the time of death?,discrete,numeric-12.0,3700,19137,-
+274,i306o,"Did she die within 6 weeks of delivery, abortion or miscarriage?",discrete,numeric-12.0,6344,16493,-
+275,i309o,"Was she, or had she been, pregnant for less than 6 months when she died?",discrete,numeric-12.0,4873,17964,-
+276,i310o,"Please confirm: When she died, she was NEITHER",discrete,numeric-12.0,4348,18489,-
+5,Verbal,Autopsy Input Indicator data:January 2000 Œ September 2021 - Variables List -  20  - File AHRI.VerbalAutopsy.InteVA05 Raw Data.2021 # Name Label Type Format Valid Invalid Question pregnant NOR had recently been pre 277 i312o Did she die during labour or delivery?,discrete,numeric-12.0,122,22715,-
+278,i313o,Did she die after delivering a baby?,discrete,numeric-12.0,125,22712,-
+279,i314o,Did she die within 24 hours after delivery?,discrete,numeric-12.0,25,22812,-
+280,i315o,Did she die within 6 weeks of childbirth?,discrete,numeric-12.0,122,22715,-
+281,i316o,Did she give birth to a live baby (within 6 weeks of her death)?,discrete,numeric-12.0,125,22712,-
+282,i317o,Did she die during or after a multiple pregnancy?,discrete,numeric-12.0,125,22712,-
+283,i318o,Was she breastfeeding the child in the days before death?,discrete,numeric-12.0,119,22718,-
+284,i319a,Did she die during or after her first pregnancy?,discrete,numeric-12.0,32,22805,-
+285,i319b,Did she have four or more pregnancies before this one?,discrete,numeric-12.0,34,22803,-
+286,i320o,Had she had any previous Caesarean section?,discrete,numeric-12.0,118,22719,-
+287,i321o,"During pregnancy, did she suffer from high blood pressure?",discrete,numeric-12.0,6054,16783,-
+288,i322o,Did she have foul smelling vaginal discharge during pregnancy or after delivery?,discrete,numeric-12.0,14429,8408,-
+289,i323o,"During the last 3 months of pregnancy, did she suffer from convulsions?",discrete,numeric-12.0,9201,13636,-
+290,i324o,During the last 3 months of pregnancy did she suffer from blurred vision?,discrete,numeric-12.0,121,22716,-
+291,i325o,Did she have excessive bleeding during pregnancy or shortly after delivery?,discrete,numeric-12.0,8888,13949,-
+292,i326o,Was there vaginal bleeding during the first 6 months of pregnancy?,discrete,numeric-12.0,0,22837,-
+293,i327o,Was there vaginal bleeding during the last 3 months of pregnancy but before labou,discrete,numeric-12.0,0,22837,-
+294,i328o,"Did she have excessive bleeding during labour, before delivery?",discrete,numeric-12.0,121,22716,-
+295,i329o,Did she have excessive bleeding after delivery or abortion?,discrete,numeric-12.0,120,22717,-
+5,Verbal,Autopsy Input Indicator data:January 2000 Œ September 2021 - Variables List -  21  - File AHRI.VerbalAutopsy.InteVA05 Raw Data.2021 # Name Label Type Format Valid Invalid Question 296 i330o Was the placenta completely delivered?,discrete,numeric-12.0,145,22692,-
+297,i331o,Did she deliver or try to deliver an abnormally positioned baby?,discrete,numeric-12.0,120,22717,-
+298,i332a,Did her labour last longer than 24 hours?,discrete,numeric-12.0,4870,17967,-
+299,i333o,Did she attempt to terminate the pregnancy?,discrete,numeric-12.0,122,22715,-
+300,i334o,Did she recently have a pregnancy that ended in an abortion (spontaneous or induc,discrete,numeric-12.0,6319,16518,-
+301,i335o,Did she die during an abortion?,discrete,numeric-12.0,2,22835,-
+302,i336o,Did she die within 6 weeks of having an abortion?,discrete,numeric-12.0,2,22835,-
+303,i337a,Did the mother deliver at a health facility or clinic?,discrete,numeric-12.0,35,22802,-
+304,i337b,Did the mother deliver at home?,discrete,numeric-12.0,35,22802,-
+305,i337c,Did the mother deliver elsewhere (not at a health facility nor at home)?,discrete,numeric-12.0,35,22802,-
+306,i338o,Did she receive professional assistance during the delivery?,discrete,numeric-12.0,122,22715,-
+307,i340o,Did she have an operation to remove her uterus shortly before death?,discrete,numeric-12.0,118,22719,-
+308,i342o,"Was the delivery normal vaginal, without forceps or vacuum?",discrete,numeric-12.0,117,22720,-
+309,i343o,"Was the delivery vaginal, with forceps or vacuum?",discrete,numeric-12.0,104,22733,-
+310,i344o,Was the delivery a Caesarean section?,discrete,numeric-12.0,109,22728,-
+311,i347o,Was her baby born more than one month early?,discrete,numeric-12.0,5018,17819,-
+312,i354o,Was the child part of a multiple birth?,discrete,numeric-12.0,295,22542,-
+313,i355a,"If the child was part of a multiple birth, was it born first?",discrete,numeric-12.0,5,22832,-
+314,i356o,Is the child's mother still alive?,discrete,numeric-12.0,111,22726,-
+315,i357o,Did the child's mother die during or shortly after the delivery?,discrete,numeric-12.0,0,22837,-
+316,i358a,Did the child's mother die in the baby's first year of life?,discrete,numeric-12.0,0,22837,-
+5,Verbal,Autopsy Input Indicator data:January 2000 Œ September 2021 - Variables List -  22  - File AHRI.VerbalAutopsy.InteVA05 Raw Data.2021 # Name Label Type Format Valid Invalid Question 317 i360a Was the baby born in a health facility or clinic?,discrete,numeric-12.0,278,22559,-
+318,i360b,Was the baby born at home?,discrete,numeric-12.0,276,22561,-
+319,i360c,Was the baby born somewhere else (e.g. on the way to a clinic)?,discrete,numeric-12.0,278,22559,-
+320,i361o,Did the mother receive professional assistance during the delivery?,discrete,numeric-12.0,276,22561,-
+321,i362o,"At birth, was the baby of usual size?",discrete,numeric-12.0,263,22574,-
+322,i363o,"At birth, was the baby smaller than normal (weighing under 2.5 kg)?",discrete,numeric-12.0,179,22658,-
+323,i364o,"At birth, was the baby very much smaller than usual, (weighing under 1 kg)?",discrete,numeric-12.0,10,22827,-
+324,i365o,"At birth, was the baby larger than normal (weighing over 4.5 kg)?",discrete,numeric-12.0,224,22613,-
+325,i367a,Was the baby born during the ninth month (at least 37 weeks) of pregnancy?,discrete,numeric-12.0,258,22579,-
+326,i367b,Was the baby born during the eighth month (34 to 37 weeks) of pregnancy?,discrete,numeric-12.0,5581,17256,-
+327,i367c,Was the baby born before the eighth month (less than 34 weeks) of pregnancy?,discrete,numeric-12.0,8458,14379,-
+328,i368o,Were there any complications in the late part of the pregnancy (defined as the la,discrete,numeric-12.0,104,22733,-
+329,i369o,Were there any complications during labour or delivery?,discrete,numeric-12.0,16,22821,-
+330,i370o,Was any part of the baby physically abnormal at time of delivery? (for example: b,discrete,numeric-12.0,9181,13656,-
+331,i371o,Did the baby/child have a swelling or defect on the back?,discrete,numeric-12.0,6323,16514,-
+332,i372o,Did the baby/child have a very large head?,discrete,numeric-12.0,6324,16513,-
+333,i373o,Did the baby/child have a very small head?,discrete,numeric-12.0,6324,16513,-
+334,i376o,Was the baby moving in the last few days before the birth?,discrete,numeric-12.0,33,22804,-
+335,i377o,Did the baby stop moving in the womb before labour started?,discrete,numeric-12.0,32,22805,-
+5,Verbal,Autopsy Input Indicator data:January 2000 Œ September 2021 - Variables List -  23  - File AHRI.VerbalAutopsy.InteVA05 Raw Data.2021 # Name Label Type Format Valid Invalid Question 336 i382a Did labour and delivery take more than 24 hours?,discrete,numeric-12.0,6,22831,-
+337,i383o,Was the baby born 24 hours or more after the waters broke?,discrete,numeric-12.0,168,22669,-
+338,i384o,Was the liquor foul smelling when the waters broke?,discrete,numeric-12.0,33,22804,-
+339,i385a,Was the liquor a green or brown colour when the waters broke?,discrete,numeric-12.0,29,22808,-
+340,i387o,"Was the delivery normal vaginal, without forceps or vacuum?",discrete,numeric-12.0,139,22698,-
+341,i388o,"Was the delivery vaginal, with forceps or vacuum?",discrete,numeric-12.0,119,22718,-
+342,i389o,Was the delivery a Caesarean section?,discrete,numeric-12.0,115,22722,-
+343,i391o,Did the child's mother receive any vaccinations since reaching adulthood includin,discrete,numeric-12.0,29,22808,-
+344,i393o,Did the mother receive tetanus toxoid (TT) vaccine?,discrete,numeric-12.0,19,22818,-
+345,i394a,Was this baby born from the mother's first pregnancy?,discrete,numeric-12.0,216,22621,-
+346,i394b,Did the baby's mother have four or more births before this one?,discrete,numeric-12.0,216,22621,-
+347,i395o,"During labour, did the baby's mother suffer from fever?",discrete,numeric-12.0,33,22804,-
+348,i396o,"During the last 3 months of pregnancy, labour or delivery, did the baby's mother",discrete,numeric-12.0,33,22804,-
+349,i397o,Did the baby's mother have diabetes mellitus?,discrete,numeric-12.0,33,22804,-
+350,i398o,Did the baby's mother have foul smelling vaginal discharge during pregnancy or af,discrete,numeric-12.0,33,22804,-
+351,i399o,"During the last 3 months of pregnancy, labour or delivery, did the baby's mother",discrete,numeric-12.0,33,22804,-
+352,i400o,During the last 3 months of pregnancy did the baby's mother suffer from blurred v,discrete,numeric-12.0,33,22804,-
+353,i401o,Did the baby's mother have severe anaemia?,discrete,numeric-12.0,32,22805,-
+354,i402o,Did the baby's mother have vaginal bleeding during the last 3 months of pregnancy,discrete,numeric-12.0,33,22804,-
+5,Verbal,"Autopsy Input Indicator data:January 2000 Œ September 2021 - Variables List -  24  - File AHRI.VerbalAutopsy.InteVA05 Raw Data.2021 # Name Label Type Format Valid Invalid Question 355 i403o Did the baby's bottom, feet, arm or hand come out of the vagina before its head?",discrete,numeric-12.0,33,22804,-
+356,i404o,Was the umbilical cord wrapped more than once around the baby's neck at birth?,discrete,numeric-12.0,31,22806,-
+357,i405o,Was the umbilical cord delivered first?,discrete,numeric-12.0,32,22805,-
+358,i406o,Was the baby blue in colour at birth?,discrete,numeric-12.0,31,22806,-
+359,i408o,"Before the illness that led to death, was the baby/child growing normally?",discrete,numeric-12.0,4321,18516,-
+360,i411o,Did (s)he drink alcohol?,discrete,numeric-12.0,21443,1394,-
+361,i412o,Did (s)he use tobacco?,discrete,numeric-12.0,2824,20013,-
+362,i413o,"Did (s)he smoke tobacco (cigarette, cigar, pipe, etc.)?",discrete,numeric-12.0,21311,1526,-
+363,i414a,Did (s)he use non-smoking tobacco?,discrete,numeric-12.0,307,22530,-
+364,i415a,Did (s)he smoke at least 10 cigarettes daily?,discrete,numeric-12.0,7,22830,-
+365,i418o,Did (s)he receive any treatment for the illness that led to death?,discrete,numeric-12.0,21488,1349,-
+366,i419o,Did (s)he receive oral rehydration salts?,discrete,numeric-12.0,2074,20763,-
+367,i420o,Did (s)he receive (or need) intravenous fluids (drip) treatment?,discrete,numeric-12.0,2081,20756,-
+368,i421o,Did (s)he receive (or need) a blood transfusion?,discrete,numeric-12.0,2025,20812,-
+369,i422o,Did (s)he receive (or need) treatment/food through a tube passed through the nose,discrete,numeric-12.0,2105,20732,-
+370,i423o,Did (s)he receive (or need) injectable antibiotics?,discrete,numeric-12.0,1731,21106,-
+371,i424o,Did (s)he receive (or need) antiretroviral therapy (ART)?,discrete,numeric-12.0,2031,20806,-
+372,i425o,Did (s)he have (or need) an operation for the illness?,discrete,numeric-12.0,20277,2560,-
+373,i426o,Did (s)he have the operation within 1 month before death?,discrete,numeric-12.0,73,22764,-
+374,i427o,Was (s)he discharged from hospital very ill?,discrete,numeric-12.0,7136,15701,-
+375,i428o,Did (s)he receive appropriate immunizations?,discrete,numeric-12.0,100,22737,-
+376,i450o,"In the final days before death, did s/he travel to a hospital or health facility?",discrete,numeric-12.0,2951,19886,-
+5,Verbal,Autopsy Input Indicator data:January 2000 Œ September 2021 - Variables List -  25  - File AHRI.VerbalAutopsy.InteVA05 Raw Data.2021 # Name Label Type Format Valid Invalid Question 377 i451o Did (s)he use motorised transport to get to the hospital or health facility?,discrete,numeric-12.0,1565,21272,-
+378,i452o,Were there any problems during admission to the hospital or health facility?,discrete,numeric-12.0,1536,21301,-
+379,i453o,"Were there any problems with the way (s)he was treated (medical treatment, proced",discrete,numeric-12.0,1529,21308,-
+380,i454o,"Were there any problems getting medications, or diagnostic tests in the hospital",discrete,numeric-12.0,1538,21299,-
+381,i455o,Does it take more than 2 hours to get to the nearest hospital or health facility,discrete,numeric-12.0,22400,437,-
+382,i456o,"In the final days before death, were there any doubts about whether medical care",discrete,numeric-12.0,2926,19911,-
+383,i457o,"In the final days before death, was traditional medicine used?",discrete,numeric-12.0,16940,5897,-
+384,i458o,"In the final days before death, did anyone use a telephone or cell phone to call",discrete,numeric-12.0,2939,19898,-
+385,i459o,"Over the course of illness, did the total costs of care and treatment prohibit ot",discrete,numeric-12.0,2947,19890,-
